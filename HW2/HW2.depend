@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603994937 source:c:\users\jtyna\documents\c\hw2\main.c
+	<stdio.h>
+	<stdlib.h>
+
