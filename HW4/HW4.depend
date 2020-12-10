@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605828378 source:c:\users\jtyna\documents\c\hw4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
